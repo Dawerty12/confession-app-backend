@@ -1,0 +1,6 @@
+@ConfessionApp.WebApi_HostAddress = http://localhost:5145
+
+GET {{ConfessionApp.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
